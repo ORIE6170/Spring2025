@@ -5,9 +5,11 @@ layout: home
  - [Course website]({{"/" | prepend: site.baseurl }})
  - [Syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit)
  - [Canvas](https://canvas.cornell.edu/courses/38827)
+ - [Paper list](https://docs.google.com/document/d/1VFOLy8fAoY8Kmy06unBx-Bkp5tc62mM5bpsY_j7dsL8/edit#heading=h.ktoma9yvfgly)
+ - [Discussion + Paper presentation signup](https://docs.google.com/spreadsheets/d/1Ne38J1SdDiBgSg_OTHoPaaQHJ3s113pQc11EDvm81HI/edit#gid=0)
  - Slack -- Primary communication tool; see syllabus for link
 
-See the [syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit) for details. The class will be fully remote, with students split across Ithaca and NYC. 
+See the [syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit) for details. The class will be fully remote, with students split across Ithaca and NYC.
 
  <b> Course topics </b>
   - Introduction and overview (~1 weeks)
