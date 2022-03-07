@@ -5,3 +5,4 @@ vendor/*
 .bundle/*
 .jekyll-metadata
 Gemfile.lock
+.vscode/

@@ -8,6 +8,7 @@ layout: home
  - [Paper list](https://docs.google.com/document/d/1VFOLy8fAoY8Kmy06unBx-Bkp5tc62mM5bpsY_j7dsL8/edit#heading=h.ktoma9yvfgly)
  - [Discussion + Paper presentation signup](https://docs.google.com/spreadsheets/d/1Ne38J1SdDiBgSg_OTHoPaaQHJ3s113pQc11EDvm81HI/edit#gid=0)
  - Slack -- Primary communication tool; see syllabus for link
+ - [Paper review and feedback instructions](https://docs.google.com/document/d/1qy4PgxEmXM6rEyOM2m0yDOnQ3ODERGcdw1ZiSfmyH9Y/edit)
 
 See the [syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit) for details. The class will be fully remote, with students split across Ithaca and NYC.
 
