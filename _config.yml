@@ -1,10 +1,15 @@
 # Site settings
 course_name: Engineering Societal Systems
 course_description: "This class will explore topics in the intersection of computer science, economics, and operations -- on the application of algorithms, data science/machine learning, and mechanism design to the study of democracy, markets, and societal systems at large.
-Methodological tools discussed include both theoretical (mechanism/market design, social choice, pricing, matching, etc) and empirical (large-scale optimization, demand estimation, using governmental data, etc). Application domains could include markets (labor, accommodation, services, rides), governmental (transportation, democracy) and other non-profit settings (education, housing, humanitarian, volunteer coordination, food allocation). "
-course_semester: "Spring 2022"
+Methodological tools discussed include mathematical (mechanism/market design, social choice, pricing, matching, etc), empirical (large-scale optimization, demand estimation, using governmental data, etc), and conceptual. Application domains could include markets (labor, accommodation, services, rides), governmental (transportation, democracy) and other non-profit settings (education, housing, humanitarian, volunteer coordination, food allocation).
 
-baseurl: "/Spring_2022" # the subpath of your site, e.g. /blog/
+The 2025 offering will focus on algorithms in government and admissions/hiring in particular.
+
+The course is accessible and of interest to students across ORIE, CS, IS, and Johnson. Assignments will be paper reading, presentations, and a research project, and students will have methodological flexibility.
+"
+course_semester: "Spring 2025"
+
+baseurl: "/Spring2025" # the subpath of your site, e.g. /blog/
 url: "http://ORIE6170.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Cornell Tech"
