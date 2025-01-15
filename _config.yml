@@ -1,12 +1,8 @@
 # Site settings
 course_name: Engineering Societal Systems
-course_description: "This class will explore topics in the intersection of computer science, economics, and operations -- on the application of algorithms, data science/machine learning, and mechanism design to the study of democracy, markets, and societal systems at large.
-Methodological tools discussed include mathematical (mechanism/market design, social choice, pricing, matching, etc), empirical (large-scale optimization, demand estimation, using governmental data, etc), and conceptual. Application domains could include markets (labor, accommodation, services, rides), governmental (transportation, democracy) and other non-profit settings (education, housing, humanitarian, volunteer coordination, food allocation).
+course_description: "This seminar class will explore topics in the intersection of computer science, economics, and operations -- on the application of algorithms, data science/machine learning, and market design to the study of democracy, markets, and societal systems at large. This year, we will especially focus on the theme of computational systems in government, education, and related high-stakes settings, broken down into four kinds of systems: matching/recommendation, prediction, optimization, pricing.
 
-The 2025 offering will focus on algorithms in government and admissions/hiring in particular.
-
-The course is accessible and of interest to students across ORIE, CS, IS, and Johnson. Assignments will be paper reading, presentations, and a research project, and students will have methodological flexibility.
-"
+The goal is for the class to be methodologically appropriate for a diverse set of students, including in ORIE, CS, and IS. The assignments will have substantial flexibility for you to choose the methodological toolkit that is most appropriate for your research and goals. The paper discussions and in class lectures will also aim to be broadly accessible and interesting."
 course_semester: "Spring 2025"
 
 baseurl: "/Spring2025" # the subpath of your site, e.g. /blog/

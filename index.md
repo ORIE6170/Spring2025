@@ -3,38 +3,40 @@ layout: home
 ---
 NOTE: DETAILS AND LINKS ARE CURRENTLY FOR THE 2022 OFFERING OF THE COURSE. THE 2025 OFFERING WILL DIFFER IN THE DETAILS, AND ESPECIALLY FOCUS MORE ON ALGORITHMS IN GOVERNMENT. 
 
-
 <b>Important links</b>
  - [Course website]({{"/" | prepend: site.baseurl }})
- - [Syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit)
- - [Canvas](https://canvas.cornell.edu/courses/38827)
- - [Paper list](https://docs.google.com/document/d/1VFOLy8fAoY8Kmy06unBx-Bkp5tc62mM5bpsY_j7dsL8/edit#heading=h.ktoma9yvfgly)
- - [Discussion + Paper presentation signup](https://docs.google.com/spreadsheets/d/1Ne38J1SdDiBgSg_OTHoPaaQHJ3s113pQc11EDvm81HI/edit#gid=0)
+ - [Syllabus](https://docs.google.com/document/d/1VUgsFrZFnc8icZbIIvy2w0MgAJlIqxhsVF61Y1GZ7-0/edit?tab=t.0)
+ <!-- - [Paper list](https://docs.google.com/document/d/1Is__u8Yxz66Ddq9ONVqXwyuGFJQyM3kEhLN7FEppAPM/edit?tab=t.0) -->
  - Slack -- Primary communication tool; see syllabus for link
- - [Paper review and feedback instructions](https://docs.google.com/document/d/1qy4PgxEmXM6rEyOM2m0yDOnQ3ODERGcdw1ZiSfmyH9Y/edit)
-
-See the [syllabus](https://docs.google.com/document/d/1jb3OyBg9Iv5YsSgp0E1dRVmNpvfK_1-Z5e1fazlm7Uk/edit) for details. The class will be fully remote, with students split across Ithaca and NYC.
 
  <b> Course topics </b>
-  - Introduction and overview (~1 weeks)
-      - What is market design? What are the tools used?
-      - Overview of classic papers/ideas
-      - How do we analyze existing systems? What is the role of an engineer/computing in understanding societal systems? How do we design new systems? Where has engineering of societal systems most succeeded? How do we choose an appropriate objective function?
-  - Transportation systems as a representative case study (~2-3 weeks)
-      - Transportation marketplaces: pricing, matching
-      - Public transportation: school bus routing, stop placement, shared vehicles
-      - Congestion pricing
-  - Online marketplaces more generally (~2 weeks)
-      - Pricing, matching, reputation systems, recommendations
-  - Crowdsourcing, social choice, information design (~2 weeks)
-      - Wisdom of crowds, herding, information design
-      - Voting in complicated spaces (rankings, participatory budgeting)
-      - Optimization + voting (gerrymandering, sortition)
-      - Social choice + machine learning
-  - Education systems (~2 weeks)
-      - School choice (matching + recommendations), school zone design (optimization)
-      - Designing admissions systems
-  - Miscellaneous methodologies and applications
-  - Limits of technical approaches (~1 week)
-      - What are the limits to engineering methodologies?
-      - How do we incorporate qualitative methods?
+1. Introduction and overview
+   - What is market design? What are the tools used? 
+   - Overview of classic papers/ideas
+   - How do we analyze existing systems? What is the role of an engineer/computing in understanding societal systems? How do we design new systems? Where has engineering of societal systems most succeeded? How do we choose an appropriate objective function? What are "wicked problems" and failure modes?
+
+2. Matching and recommendation
+   - School choice (matching + recommendations)
+   - Refugee matching
+
+3. Prediction for decision-making
+   - Prediction in admissions and student performance tracking
+   - Criminal risk assessments, crime prediction, prediction in child welfare
+   - Limits of prediction and "against predictive optimization"
+
+4. Optimization and mechanisms
+   - Gerrymandering, sortition
+   - Social service optimization (homeless services, medical resources, etc)
+   - Public transportation: school bus routing, stop placement, shared vehicles, school zone design
+
+5. Pricing
+   - Congestion pricing, wireless spectrum auctions, tax auditing policies
+   - Algorithmic pricing collusion
+
+6. Miscellaneous
+   - Algorithms in NYC government as an extended case study
+   - Experimentation in government
+   - Human-AI collaboration
+   - Limits of technical approaches
+   - Voting and social choice
+   - Other applications, such as online marketplaces
