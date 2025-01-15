@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-NOTE: DETAILS AND LINKS ARE CURRENTLY FOR THE 2022 OFFERING OF THE COURSE. THE 2025 OFFERING WILL DIFFER IN THE DETAILS, AND ESPECIALLY FOCUS MORE ON ALGORITHMS IN GOVERNMENT. 
-
 <b>Important links</b>
  - [Course website]({{"/" | prepend: site.baseurl }})
  - [Syllabus](https://docs.google.com/document/d/1VUgsFrZFnc8icZbIIvy2w0MgAJlIqxhsVF61Y1GZ7-0/edit?tab=t.0)
