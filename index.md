@@ -5,6 +5,7 @@ layout: home
  - [Course website]({{"/" | prepend: site.baseurl }})
  - [Syllabus](https://docs.google.com/document/d/1VUgsFrZFnc8icZbIIvy2w0MgAJlIqxhsVF61Y1GZ7-0/edit?tab=t.0)
  - [Paper discussion signup](https://docs.google.com/spreadsheets/d/1kzA7vHxICXo9fxbw3XSLXH--YxZpQS4mibU4iw-4paI/edit?gid=0#gid=0)
+ - [Paper list](https://docs.google.com/document/d/1Is__u8Yxz66Ddq9ONVqXwyuGFJQyM3kEhLN7FEppAPM/edit?usp=sharing)
  - [Ed Discussion -- Primary communication tool; automatically added from Canvas if registered. Let me know if not.](https://edstem.org/us/courses/74891/discussion)
 
  <b> Course topics </b>
